@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706690280004",
+    "firebase_url": "https://tifosifutsal-5fbc6.firebaseio.com",
+    "project_id": "tifosifutsal-5fbc6",
+    "storage_bucket": "tifosifutsal-5fbc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706690280004:android:882c6a56852baeca856a11",
+        "android_client_info": {
+          "package_name": "com.mp.tifosifutsal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706690280004-mkmor6f5a3i5mrr73qek1qo2pqdecbpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mp.tifosifutsal",
+            "certificate_hash": "7d3dc5cd1d30a90a623e2f8310fccd8bf5d2aaa3"
+          }
+        },
+        {
+          "client_id": "706690280004-9lv2r1memuhipaivq4dj3shjtpk0l790.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5PnFY7vOXDpl_pIJjn58EkrQKI0bcZ3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706690280004-9lv2r1memuhipaivq4dj3shjtpk0l790.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
